@@ -4,7 +4,7 @@
 > **Uygulama:** Betricaq Müzik Asistanı (`v1.0`)  
 > **Platform:** [MicUp](https://micup.gg/)  
 > **Dil Desteği:** Türkçe & English (Otomatik Uygulama Dili Algılama)  
-> **Destek Sunucusu:** [Betricaq Support]([https://micup.gg/invite/IN33KpwG](https://micup.gg/invite/wybhDhiJ))
+> **Destek Sunucusu:** [Betricaq Support](https://micup.gg/invite/wybhDhiJ)
 
 ---
 
